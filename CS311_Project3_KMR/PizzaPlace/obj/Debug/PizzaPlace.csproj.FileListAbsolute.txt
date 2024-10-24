@@ -1,0 +1,9 @@
+c:\users\li915d\documents\visual studio 2013\Projects\PizzaPlace\PizzaPlace\bin\Debug\PizzaPlace.exe.config
+c:\users\li915d\documents\visual studio 2013\Projects\PizzaPlace\PizzaPlace\bin\Debug\PizzaPlace.exe
+c:\users\li915d\documents\visual studio 2013\Projects\PizzaPlace\PizzaPlace\bin\Debug\PizzaPlace.pdb
+c:\users\li915d\documents\visual studio 2013\Projects\PizzaPlace\PizzaPlace\obj\Debug\PizzaPlace.csprojResolveAssemblyReference.cache
+c:\users\li915d\documents\visual studio 2013\Projects\PizzaPlace\PizzaPlace\obj\Debug\PizzaPlace.frmMain.resources
+c:\users\li915d\documents\visual studio 2013\Projects\PizzaPlace\PizzaPlace\obj\Debug\PizzaPlace.Properties.Resources.resources
+c:\users\li915d\documents\visual studio 2013\Projects\PizzaPlace\PizzaPlace\obj\Debug\PizzaPlace.csproj.GenerateResource.Cache
+c:\users\li915d\documents\visual studio 2013\Projects\PizzaPlace\PizzaPlace\obj\Debug\PizzaPlace.exe
+c:\users\li915d\documents\visual studio 2013\Projects\PizzaPlace\PizzaPlace\obj\Debug\PizzaPlace.pdb
